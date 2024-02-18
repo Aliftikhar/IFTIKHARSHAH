@@ -1,3 +1,3 @@
-## IFTIKHAR SHAH
+# IFTIKHAR SHAH
 
-### Data Analyst/BI Developer
+# Data Analyst/BI Developer
