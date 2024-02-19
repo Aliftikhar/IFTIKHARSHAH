@@ -20,8 +20,8 @@ To level up the visualizing data skills build up the reports on Maven Market sal
 ### Global Super Store Analysis
 [Publication](https://public.tableau.com/app/profile/shah.iftikhar/viz/Golbal_Superstore_Analysis/Story1)
 
-Initiating form building the path between the data souce and Tableau analyzed the Global Super Store to present the facts visually. 
-Plotted multiple visuals to demonstrate the numbers elegantly. Build story based on report levels charts and map plots to present the project to the instructor.
+Initiating from building the path between the data source and Tableau, I analyzed the Global Super Store to present the facts visually. 
+Plotted multiple visuals to demonstrate the numbers elegantly. Build a story based on report-level charts and map plots to present the project to the instructor.
 
 
 ## Skills
@@ -44,5 +44,5 @@ Core Subjects: Computational Theory, RDBMS, Software Project Management, Softwar
 
 Communication: Selected from a pool of 6000+ applicants and then crossed a four-phase selection process for an intensive 3-month fellowship funded by Stanford University. 
 
-Skills development: Investing 150 hours in order to develop business skills (e.g., communication, leadership, problem-solving, teamwork, etc.) that will help me build my career.
+Skills development: Investing 150 hours to develop business skills (e.g., communication, leadership, problem-solving, teamwork, etc.) that will help me build my career.
 
