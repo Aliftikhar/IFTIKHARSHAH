@@ -18,7 +18,7 @@ Worked on a project implementing the knowledge of data warehouse from the founda
 
 To level up the visualizing data skills build up the reports on Maven Market sales and profit dataset. Connected the data source and Power BI then made a relational data model for the right access to data at the reporting level. With the assistance of DAX created calculated columns, measures, and KPIs to represent the facts and dimensions in the report. 
 
-![Visual](/assets/Repository.png)
+![Visual](/asset/Repository.png)
 
 **Global Super Store Analysis**
 
