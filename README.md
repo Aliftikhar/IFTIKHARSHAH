@@ -1,5 +1,9 @@
 # Data Analyst/BI Developer
 
+## About
+
+An individual with the knowledge and skills of Data Warehousing and analytical skills of Power BI, Tableau loves encountering problems and working out the most appropriate solutions. In addition, I am detail-oriented and self-motivated looking forward to connecting with an esteemed organization to utilize my skill set.
+
 ## Professional Experience
 **Blutech Consulting (Pvt) Ltd.                    (April 2021 - June 2021)**
 
