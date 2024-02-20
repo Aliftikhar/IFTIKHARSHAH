@@ -36,7 +36,7 @@ Plotted multiple visuals to demonstrate the numbers elegantly. Built a story bas
 SQL, Power BI, Tableau, Python, Data Warehousing, Data Modeling, ETL, and ELT.
 
 ## Education
-**University of Karachi. (Feb 2016 – Jan 2021)**
+**University of Karachi (Feb 2016 – Jan 2021)**
 
 **BS (Software Engineering)**
 
@@ -45,7 +45,7 @@ Core Subjects: Computational Theory, RDBMS, Software Project Management, Softwar
 
 ## Volunteer Experience
 
-**Amal Academy. (July 2020 – Oct 2020)**
+**Amal Academy (July 2020 – Oct 2020)**
 
 **Career Preparation Fellowship**
 
