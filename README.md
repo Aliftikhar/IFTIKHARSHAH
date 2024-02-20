@@ -10,8 +10,6 @@ Worked as an associate Data Engineer. Utilized SQL accessing Apache Hive to run 
 
 Worked on a project implementing the knowledge of data warehouse from the foundation layer to the semantic layer writing SQL scripts to upload data. Normalization and Denormalization of data are applied for the quick retrieval of the data from the data warehouse.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
 **Maven Market Analysis**
 
 [Publication](https://github.com/Aliftikhar/Maven-Market-Sales-Analysis-on-Power-Bi.)
@@ -27,6 +25,7 @@ To level up the visualizing data skills build up the reports on Maven Market sal
 Initiating from building the path between the data source and Tableau, I analyzed the Global Super Store to present the facts visually. 
 Plotted multiple visuals to demonstrate the numbers elegantly. Build a story based on report-level charts and map plots to present the project to the instructor.
 
+![Visual](/asset/Presentation_1.png)
 
 ## Skills
 
